@@ -5,7 +5,7 @@ Leetcode..
 .........ss
 .....
 ........x...ssss
-......sssssss
+......ssssssssssss
 .....ssaaaa
 ......iiissssssaaaassss
 ......sssaassss
