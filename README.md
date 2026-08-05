@@ -4,11 +4,6 @@ Leetcode..
 ......
 .........ss
 .....
-........x...ssss
-......ssssssssssss
-.....ssaaaadadadad
-......sssssssssssssssssssssssssssssssssssssssssaaaaaaaaaaa
-......sssaassss
 ssssaaaa
 ........aaassssss
 ........hhssss
